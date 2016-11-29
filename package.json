@@ -21,7 +21,7 @@
     "eslint-config-classeur": "^1.0.1",
     "gulp": "^3.9.0",
     "gulp-spawn-mocha": "^2.2.1",
-    "markdown-it": "^5.0.2",
+    "markdown-it": "latest",
     "should": "^8.0.1"
   }
 }

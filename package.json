@@ -1,6 +1,6 @@
 {
-  "name": "markdown-it-mathjax",
-  "version": "1.0.3",
+  "name": "markdown-it-mathjax-updated",
+  "version": "1.0.4",
   "description": "",
   "main": "markdown-it-mathjax.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/classeur/markdown-it-mathjax.git"
+    "url": "git+https://github.com/Honey-Be/markdown-it-mathjax-updated.git"
   },
-  "author": "Benoit Schweblin",
+  "author": "윤병익",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/classeur/markdown-it-mathjax/issues"
+    "url": "https://github.com/Honey-Be/markdown-it-mathjax-updated/issues"
   },
-  "homepage": "https://github.com/classeur/markdown-it-mathjax#readme",
+  "homepage": "https://github.com/Honey-Be/markdown-it-mathjax-updated#readme",
   "devDependencies": {
     "clgulp": "^1.1.0",
     "eslint-config-classeur": "^1.0.1",
